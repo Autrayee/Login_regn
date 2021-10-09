@@ -1,0 +1,15 @@
+*{
+    border-color: rgba(15, 15, 199, 0.699);
+}
+.loginMain{
+    border-radius: 2px;
+    border-color: blue;
+    padding: 20px;
+}
+.heading{
+    color: white;
+    background-color: rgba(15, 15, 199, 0.699);
+    text-size-adjust: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
